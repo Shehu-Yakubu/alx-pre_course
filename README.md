@@ -1,1 +1,1 @@
-README file updated from source.
+README file updated from the GitHub repo.
